@@ -3,7 +3,7 @@ layout: about
 title: About
 ---
 
-### why
+### Why
 
 Driven by a relentless curiosity for  technology I am Henrietta Anyanwu on a mission to master the digital landscape. with the foundation in microsoft word, I'm ready to elevate my expertise at Tech Expert Academy. I'm eager to attend Tech Expert Academy because I believe in the power of continuous learning and growth. I'm passionate about technology and it's potential to drive positive change in the world by attending this accademy, I aim to deepen my knowledge, hone my skills, and connect with like-minds. 
 
